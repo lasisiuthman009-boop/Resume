@@ -65,15 +65,15 @@ p {
 }
 
 .firstcloud {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     position: relative;
     left: 20%;
 }
 
 .secondcloud {
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     position: absolute;
     left: 5%;
     top: 13%;
@@ -262,15 +262,15 @@ p {
     }
 
     .firstcloud {
-        height: 50px;
-        width: 50px;
+        height: 200px;
+        width: 200px;
         position: relative;
         left: 20%;
     }
 
     .secondcloud {
-        height: 50px;
-        width: 50px;
+        height: 200px;
+        width: 200px;
         position: absolute;
         left: 5%;
         top: 13%;
